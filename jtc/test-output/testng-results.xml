@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-05T10:00:29Z" name="Default suite" finished-at="2021-05-05T10:01:03Z" duration-ms="33830">
+    <groups>
+    </groups>
+    <test started-at="2021-05-05T10:00:29Z" name="Default test" finished-at="2021-05-05T10:01:03Z" duration-ms="33830">
+      <class name="com.jtc.qa.testCase.SearchPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.jtc.qa.testCase.SearchPageTest@3c01cfa1]" started-at="2021-05-05T15:30:29Z" name="setUp" finished-at="2021-05-05T15:30:45Z" duration-ms="15268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SearchData()[pri:1, instance:com.jtc.qa.testCase.SearchPageTest@3c01cfa1]" started-at="2021-05-05T15:30:45Z" name="SearchData" finished-at="2021-05-05T15:31:00Z" duration-ms="15361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.jtc.qa.testCase.SearchPageTest@3c01cfa1]" started-at="2021-05-05T15:31:00Z" name="tearDown" finished-at="2021-05-05T15:31:03Z" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jtc.qa.testCase.SearchPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
